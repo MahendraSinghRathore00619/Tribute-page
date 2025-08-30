@@ -89,3 +89,54 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+
+.awards-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px auto;
+}
+
+.awards-list li {
+    background: #fff8e6;
+    border-left: 5px solid #f4b400;
+    margin: 12px 0;
+    padding: 12px 15px;
+    border-radius: 8px;
+    font-size: 1rem;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.awards-list li:hover {
+    transform: translateX(5px);
+    background: #fff3d1;
+}
+
+
+.operations-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px auto;
+}
+
+.operations-list li {
+    background: #eef6ff;
+    border-left: 5px solid #007acc;
+    margin: 12px 0;
+    padding: 12px 15px;
+    border-radius: 8px;
+    font-size: 1rem;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.operations-list li:hover {
+    transform: translateX(5px);
+    background: #ddecff;
+}
+
+#title {
+    border: 2px solid #1a1a1a;
+    border-radius: 4px;
+    background-color: #6f6464;}
