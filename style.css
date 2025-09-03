@@ -15,7 +15,8 @@ body {
 h1 {
     font-size: 2.5rem;
     margin-top: 20px;
-    color: #222;
+    color: rgb(223, 170, 37);
+    text-transform: uppercase;
 }
 
 .subtitle {
@@ -139,4 +140,11 @@ a:hover {
 #title {
     border: 2px solid #1a1a1a;
     border-radius: 4px;
-    background-color: #6f6464;}
+    background-color: #b71919;
+    text-shadow: 
+   2px 2px 0 #000,
+   3px 3px 0 #000,
+   4px 4px 0 #000;
+
+
+}
