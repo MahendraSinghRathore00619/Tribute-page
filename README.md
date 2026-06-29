@@ -5,7 +5,7 @@ Ashoka Chakra awardee and Indian Army Para Special Forces officer.
 
 ---
 
-## 🪖 About Major Mohit Sharma
+##  About Major Mohit Sharma
 - Born: **13 January 1978**, Rohtak, Haryana  
 - Officer in **1 PARA (Special Forces)**  
 - Conducted daring undercover operations in Kashmir (2004)  
@@ -14,7 +14,7 @@ Ashoka Chakra awardee and Indian Army Para Special Forces officer.
 
 ---
 
-## 💻 Project Features
+##  Project Features
 - Clean, responsive design  
 - Timeline of Major Mohit Sharma’s life  
 - Tribute quote & external Wikipedia link  
@@ -23,7 +23,7 @@ Ashoka Chakra awardee and Indian Army Para Special Forces officer.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 🔗(https://major-mohit-sharma-tribute.netlify.app/)  
 
 ---
@@ -31,7 +31,7 @@ Ashoka Chakra awardee and Indian Army Para Special Forces officer.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **HTML5**  
 - **CSS3**  
 - **Netlify** (for hosting)  
